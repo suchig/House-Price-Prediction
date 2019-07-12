@@ -1,12 +1,13 @@
 # Housing Price Prediction
 
-**Goal:**
+## Goal:
+
 To identify the best model that could predict house prices in King County using data provided. 
 
-Data:
+## Data:
 https://www.kaggle.com/harlfoxem/housesalesprediction
 
-Approach:
+## Approach:
 Analyzed the features for potential cleansing
 Split the data into training and test samples
 Applied the following models and identified r2 and MSE values in training set
