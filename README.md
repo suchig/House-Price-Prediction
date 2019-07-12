@@ -1,7 +1,8 @@
 # Housing Price Prediction
 
+## Before we proceed
+If you are not able to view the ipynb file through github, try using [this nbviewer version](https://nbviewer.jupyter.org/github/suchig/House-Price-Prediction/blob/master/House%20Price%20prediction.ipynb)
 ## Goal:
-
 To identify the best model that could predict house prices in King County using data provided. 
 
 ## Data:
